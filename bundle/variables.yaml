@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-aman
+- admin-user: apt-x4869-admin
+- manager-user: apt-x4869
